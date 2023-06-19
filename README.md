@@ -63,13 +63,13 @@ npm run dev
 
 ---
 
-## Install @nuxtjs/robots support SEO
+## Install @nuxtjs/robots and Config nuxt.config.ts file to support SEO
 
 ```bash
 npm install @nuxtjs/robots -D
 ```
 
-5.Config nuxt.config.ts for Meta SEO Tag
+Config nuxt.config.ts for Meta SEO Tag
 
 ```typescript
 modules: [
@@ -135,7 +135,7 @@ npm install -D @nuxtjs/robots
 @use "vuetify/styles";
 ```
 
-3.  Config nuxt.config.ts
+3. Config nuxt.config.ts
 
 ```typescript
 import vuetify from "vite-plugin-vuetify";
