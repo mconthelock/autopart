@@ -1,5 +1,11 @@
 # Get start Nuxt3
 
+## Table contents
+
+- [Install Tailwin](#install-tailwin)
+- [Config nuxt.config.ts](#install-nuxtjsrobots-and-config-nuxtconfigts-file-to-support-seo)
+- [Nuxt3 and Vuetify](#nuxt3-and-vuetify)
+
 ## Initial Project
 
 ```bash
@@ -115,6 +121,8 @@ app: {
     }
 },
 ```
+
+---
 
 ## Nuxt3 and Vuetify
 
